@@ -39,7 +39,7 @@ studio.util.getMultBaseMdpi = function(density) {
     case    'mdpi': return 1.10;
     case    'ldpi': return 0.85;
   }
-  return 1.0;
+  return 1.5;
 };
 
 studio.util.mult = function(s, mult) {
