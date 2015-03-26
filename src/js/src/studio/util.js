@@ -12,9 +12,6 @@ distributed under the License is distributed on an "AS IS" BASIS,
 WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
-*/
-
-studio.util = {};
 
 studio.util.getMultBaseMdpi = function(density) {
   switch (density) {
@@ -24,6 +21,23 @@ studio.util.getMultBaseMdpi = function(density) {
     case    'hdpi': return 1.50;
     case    'mdpi': return 1.00;
     case    'ldpi': return 0.75;
+  }
+  return 1.0;
+};
+
+
+*/
+
+studio.util = {};
+
+studio.util.getMultBaseMdpi = function(density) {
+  switch (density) {
+    case 'xxxhdpi': return 5.00;
+    case  'xxhdpi': return 3.80;
+    case   'xhdpi': return 2.60;
+    case    'hdpi': return 1.60;
+    case    'mdpi': return 1.10;
+    case    'ldpi': return 0.85;
   }
   return 1.0;
 };
