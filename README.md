@@ -5,8 +5,13 @@ I didn't understand why everyone put in that extra padding in their icon as ther
 
 I changed nothing but a couple of values and I highly recommend you to check the original project for updates.
 
+For any inquiries, pls contact me at alecman95@gmail.com
+
+
+------------------------------------------------------------------------------------------------
+
 Original README.md:
-Android Asset Studio Full Size
+Android Asset Studio 
 ====================
 
 **[Open the Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/)**
