@@ -5,7 +5,7 @@ I didn't understand why everyone put in that extra padding in their icon as ther
 
 I changed nothing but a couple of values and I highly recommend you to check the original project for updates.
 
-For any inquiries, pls contact me at alecman95@gmail.com
+For any inquiries, pls contact me at alecman95[at]gmail.com
 
 
 ------------------------------------------------------------------------------------------------
