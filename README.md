@@ -1,7 +1,7 @@
 Android Asset Studio Full Size
 ====================
 
-**[Jump to the Fullsize Asset Studio directly](http://reiszecke.github.io/AndroidAssetStudioFullsize/icons-launcher.html)**
+>> **[Jump to the Fullsize Asset Studio directly](http://reiszecke.github.io/AndroidAssetStudioFullsize/icons-launcher.html)** <<
 
 I didn't understand why everyone put in that extra padding in their icon as there are virtually no phones who actually need it, and what speaks against having a bigger icon than other apps?
 
