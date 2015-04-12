@@ -9,6 +9,7 @@ I changed nothing but a couple of values and I highly recommend you to check the
 
 For any inquiries, pls contact me at alecman95[at]gmail.com
 
+ **[Fullsize Asset Studio index](http://reiszecke.github.io/AndroidAssetStudioFullsize/index.html)** 
 
 ------------------------------------------------------------------------------------------------
 
