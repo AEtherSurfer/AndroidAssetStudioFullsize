@@ -9,6 +9,8 @@ I changed nothing but a couple of values and I highly recommend you to check the
 
 For any inquiries, pls contact me at alecman95[at]gmail.com
 
+Please note that this could be taken down at every point as I have no clue how legal all that is. But unless you are a massive dick and report me here it'll last a few more days I guess. Just don't be a dick. Seriously, don't be that guy - no one likes **that** guy.
+
  **[Fullsize Asset Studio index](http://reiszecke.github.io/AndroidAssetStudioFullsize/index.html)** 
 
 ------------------------------------------------------------------------------------------------
